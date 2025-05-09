@@ -3,6 +3,8 @@
 ## Overview
 The Crypto Dashboard is a web application built with Vue.js that displays real-time cryptocurrency data using the CoinGecko API. The data is presented in a dynamic grid powered by ag-Grid, allowing users to sort, filter, and paginate through the information. The application also leverages Pinia for state management, handling the fetching and sorting of data efficiently.
 
+Demo - https://crypto-dashboard-a7o4t83q1-akanksha509s-projects.vercel.app
+
 ## Features
 
 * Dynamic Grid Display: Uses ag-Grid to display cryptocurrency data with sortable and paginated columns.
@@ -47,6 +49,3 @@ The Crypto Dashboard is a web application built with Vue.js that displays real-t
 
 Please note that the CoinGecko API has rate limits, allowing a maximum of 50 API calls per minute. If you exceed this limit, you'll encounter a `429 Too Many Requests` error. The app includes basic state management to minimize unnecessary API calls, but during periods of high usage, you may still experience this error.
 
-## License
-
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
