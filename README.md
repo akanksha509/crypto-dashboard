@@ -3,7 +3,7 @@
 ## Overview
 The Crypto Dashboard is a web application built with Vue.js that displays real-time cryptocurrency data using the CoinGecko API. The data is presented in a dynamic grid powered by ag-Grid, allowing users to sort, filter, and paginate through the information. The application also leverages Pinia for state management, handling the fetching and sorting of data efficiently.
 
-Demo - https://crypto-dashboard-lyart.vercel.app/crypto-dashboard/
+Demo - [Crypto Dashboard](https://crypto-dashboard-lyart.vercel.app/crypto-dashboard/)
 
 ## Features
 
